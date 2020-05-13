@@ -1,0 +1,13 @@
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\bin\Debug\netcoreapp3.1\Stringmanipulation.exe
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\bin\Debug\netcoreapp3.1\Stringmanipulation.deps.json
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\bin\Debug\netcoreapp3.1\Stringmanipulation.runtimeconfig.json
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\bin\Debug\netcoreapp3.1\Stringmanipulation.runtimeconfig.dev.json
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\bin\Debug\netcoreapp3.1\Stringmanipulation.dll
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\bin\Debug\netcoreapp3.1\Stringmanipulation.pdb
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.csproj.CoreCompileInputs.cache
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.AssemblyInfoInputs.cache
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.AssemblyInfo.cs
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.dll
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.pdb
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.genruntimeconfig.cache
+C:\Users\91970\source\repos\Stringmanipulation\Stringmanipulation\obj\Debug\netcoreapp3.1\Stringmanipulation.csprojAssemblyReference.cache
